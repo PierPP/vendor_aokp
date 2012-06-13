@@ -8,6 +8,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/captivatemtd.mk \
     $(LOCAL_DIR)/espressowifi.mk \
     $(LOCAL_DIR)/fascinatemtd.mk \
+    $(LOCAL_DIR)/galaxys2.mk \
     $(LOCAL_DIR)/galaxysmtd.mk \
     $(LOCAL_DIR)/inc.mk \
     $(LOCAL_DIR)/otter.mk \
