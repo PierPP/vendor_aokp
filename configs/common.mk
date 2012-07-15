@@ -14,7 +14,9 @@ PRODUCT_PACKAGES += \
     AppWidgetPicker \
     openvpn \
     SwagPapers \
-    AOKPtips
+    AOKPtips \
+    Apollo \
+    FileManager
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html \
