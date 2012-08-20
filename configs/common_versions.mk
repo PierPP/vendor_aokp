@@ -6,13 +6,13 @@ DATE = $(shell date +%h-%d-%y)
 # Rom Manager properties
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.rommanager.developerid=teamkang \
-    ro.aokp.version=$(TARGET_PRODUCT)_jb_pier-$(DATE)
+    ro.aokp.version=$(TARGET_PRODUCT)_jb-build-1_pier-$(DATE)
 
 # Goo updater app
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.goo.developerid=pier \
     ro.goo.rom=aokp \
-    ro.goo.version=20
+    ro.goo.version=21
 
 # Camera shutter sound property
 PRODUCT_PROPERTY_OVERRIDES += \
